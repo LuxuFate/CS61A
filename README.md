@@ -1,4 +1,5 @@
-# CS61A Overview
+# CS61A: Structure and Interpretation of Computer Programs
+
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
 CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
@@ -9,3 +10,15 @@ In CS 61A, we are interested in teaching you about programming, not about how to
 CS 61A primarily uses the Python 3 programming language. Python is a popular language in both industry and academia. It is also particularly well-suited to the task of exploring the topics taught in this course. It is an open-source language developed by a large volunteer community that prides itself on the diversity of its contributors. We will also use two other languages in the latter half of the course: the Scheme programming language and the Structured Query Language (SQL).
 
 Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work.
+
+## **Important Links:**
+
+[Course Website](https://inst.eecs.berkeley.edu/~cs61a/fa19/) 
+
+[Project 1: The Game of Hog](https://inst.eecs.berkeley.edu/~cs61a/fa19/proj/hog/)
+
+[Project 2: CS61A Autocorrected Typing Software](https://inst.eecs.berkeley.edu/~cs61a/fa19/proj/cats/)
+
+[Project 3: Ants Vs. SomeBees](https://inst.eecs.berkeley.edu/~cs61a/fa19/proj/ants/)
+
+[Project 4: Scheme Interpreter](https://inst.eecs.berkeley.edu/~cs61a/fa19/proj/scheme_stubbed/)
