@@ -1,11 +1,6 @@
 # CS61A: Structure and Interpretation of Computer Programs
 
-The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
-
-CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
-CS 61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.
-CS 61C focuses on machines and how they execute programs.
-In CS 61A, we are interested in teaching you about programming, not about how to use one particular programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming.
+The purpose of CS61A is to teach you the core concepts of computer science. CS61A is not about learning a particular programming language, though the course does introduce the Python programming language and uses it, along with a little Scheme and SQL, to teach programming concepts. This course concentrates on the idea of abstraction and using this idea to solve problems. The course considers a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming.
 
 CS 61A primarily uses the Python 3 programming language. Python is a popular language in both industry and academia. It is also particularly well-suited to the task of exploring the topics taught in this course. It is an open-source language developed by a large volunteer community that prides itself on the diversity of its contributors. We will also use two other languages in the latter half of the course: the Scheme programming language and the Structured Query Language (SQL).
 
@@ -22,3 +17,23 @@ Mastery of a particular programming language is a very useful side effect of CS 
 [Project 3: Ants Vs. SomeBees](https://inst.eecs.berkeley.edu/~cs61a/fa19/proj/ants/)
 
 [Project 4: Scheme Interpreter](https://inst.eecs.berkeley.edu/~cs61a/fa19/proj/scheme_stubbed/)
+
+## Topics Covered
+* Functions and Abstraction
+* Higher-Order Functions
+* Environments
+* Data Abstraction
+* Strings
+* Lists, Tuples, Sets, and Dictionaries
+* Mutable Data
+* Trees and Linked Lists
+* Object-Oriented Programming
+* Inheritance
+* Recursion
+* Orders of Growth
+* Functional Programming using Scheme
+* Iterators and Generators
+* Interpreters
+* Streams
+* Macros
+* Declarative Programming using SQL
